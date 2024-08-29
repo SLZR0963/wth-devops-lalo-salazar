@@ -2,7 +2,7 @@ import Link from "next/link";
 import dbConnect from "../lib/dbConnect";
 import Pet from "../models/Pet";
 
-// TODO: Import Hours component
+// TODO: Import Hours component import
 import Hours from '../components/Hours';
 
 const Index = ({ pets }) => {
